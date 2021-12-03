@@ -9,9 +9,9 @@ function App() {
     <div className="max-w-md m-auto p-2">
       <Navbar />
       <Home />
+      <About />
       <Contact />
       <Blogs />
-      <About />
     </div>
   );
 }
