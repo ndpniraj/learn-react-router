@@ -1,3 +1,3 @@
-# React and Tailwind Boilerplate
+# React and Tailwind Boilerplate to Learn React Router by [FSN](https://www.youtube.com/channel/UCiTUxayvzwCn9qStZYK07zg)
 
-Just `npm install`
+Download/Clone and Just `npm install`
